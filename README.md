@@ -1,9 +1,8 @@
-# DECLARACIÓN PÚBLICA DE PRINCIPIOS E INTENCIONES
-# ALDEA (América Latina Descentralizada y Autónoma) – DAO
+### DECLARACIÓN PÚBLICA DE PRINCIPIOS E INTENCIONES
+### ALDEA (América Latina Descentralizada y Autónoma) – DAO
 
 ## CONSIDERANDO 
-	Que la realidad socioeconómica de América Latina tiene sus características propias y dista de otras regiones como Norteamérica o la Unión Europea. Donde las desigualdades están profundamente marcadas y las necesidades básicas se ven ampliamente insatisfechas.
-Que la pobreza es un flagelo que acompaña históricamente a los pueblos latinoamericanos. Degradando su entramado social y cultural, acrecentando la brecha de la desigualdad.
+	Que la realidad socioeconómica de América Latina tiene sus características propias y dista de otras regiones como Norteamérica o la Unión Europea. Donde las desigualdades están profundamente marcadas y las necesidades básicas se ven ampliamente insatisfechas. Que la pobreza es un flagelo que acompaña históricamente a los pueblos latinoamericanos. Degradando su entramado social y cultural, acrecentando la brecha de la desigualdad.
 	Que hasta el momento el desarrollo de tecnología blockchain y de proyectos que la utilizan están abocados a otros continentes y en esta región es necesario implementarlos y capacitar a personas para poder participar en ellos.
 	Que es imperativo llevar adelante acciones concretas para mejorar la situación social, económica, ambiental, sanitaria y tecnológica de América Latina.
 	Que el desarrollo de la tecnología blockchain trae consigo múltiples oportunidades y opciones de aplicación para desarrollar y mejorar las condiciones de la vida humana.
