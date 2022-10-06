@@ -23,14 +23,22 @@ Que el desarrollo de la tecnología blockchain trae consigo múltiples oportunid
 - **ARTÍCULO 2°**: MISIÓN, de ALDEA será mejorar las condiciones de vida en América Latina y potenciar la libertad de sus habitantes mediante la cooperación mutua.
 
 - **ARTÍCULO 3°**: PRINCIPIOS, este articulado y las acciones que ALDEA lleve adelante deberán ser interpretadas en base a los siguientes principios:
-Libertad: Para pertenecer, opinar y presentar proyectos. Sin censuras o coerciones para poder expresarse o tomar decisiones.
-Sostenibilidad: Garantizar prácticas de Desarrollo Sostenible, integrando al Ambiente, el desarrollo social y el desarrollo económico para las generaciones presentes y las generaciones futuras.
-Diversidad: Entendida como la participación de todos, sin excluir a nadie, no obedeciendo prerrogativas étnicas, religiosas, ideológicas o de cualquier otra que conlleve una discriminación.
-Igualdad: De trato y consideración. Una igualdad entre iguales sin descuidar la equidad. 
-Gobernanza Descentralizada: Prescindir de estructuras jerárquicas y funcionar de forma descentralizada al recurrir a sistemas de validaciones, votaciones y automatizaciones mediante contratos inteligentes implementados y funcionando en el ámbito de una o más blockchains públicas.
-Finanzas Descentralizadas: Promover el intercambio de activos y servicios financieros directamente sin intermediarios.
-Transparencia: Brindar trazabilidad, seguridad, inalterabilidad y accesibilidad a cualquier tipo de datos y procesos.
-Universalidad: Fomentar la vocación de inclusión y adhesión universal, cualquiera que lo desee puede ser miembro de la comunidad adquiriendo el TOKEN ALDEA.
+
+- *Libertad*: Para pertenecer, opinar y presentar proyectos. Sin censuras o coerciones para poder expresarse o tomar decisiones.
+
+- *Sostenibilidad*: Garantizar prácticas de Desarrollo Sostenible, integrando al Ambiente, el desarrollo social y el desarrollo económico para las generaciones presentes y las generaciones futuras.
+
+- *Diversidad*: Entendida como la participación de todos, sin excluir a nadie, no obedeciendo prerrogativas étnicas, religiosas, ideológicas o de cualquier otra que conlleve una discriminación.
+
+- *Igualdad*: De trato y consideración. Una igualdad entre iguales sin descuidar la equidad. 
+
+- *Gobernanza Descentralizada*: Prescindir de estructuras jerárquicas y funcionar de forma descentralizada al recurrir a sistemas de validaciones, votaciones y automatizaciones mediante contratos inteligentes implementados y funcionando en el ámbito de una o más blockchains públicas.
+
+- *Finanzas Descentralizadas*: Promover el intercambio de activos y servicios financieros directamente sin intermediarios.
+
+- *Transparencia*: Brindar trazabilidad, seguridad, inalterabilidad y accesibilidad a cualquier tipo de datos y procesos.
+
+- *Universalidad*: Fomentar la vocación de inclusión y adhesión universal, cualquiera que lo desee puede ser miembro de la comunidad adquiriendo el TOKEN ALDEA.
 Participación: Arbitrar los medios necesarios para la participación activa de los miembros de la comunidad de ALDEA.
 
 - **ARTÍCULO 4°**: OBJETIVOS, las acciones de ALDEA serán tendientes a:
