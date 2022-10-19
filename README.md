@@ -49,10 +49,13 @@ Coordinar los esfuerzos para alcanzar los proyectos propuestos.
 
 - **ARTÍCULO 5°**: UNIDAD GERENCIAL TRANSITORIA (UGT) , con la que cuenta ALDEA para la coordinación y operación de gestiones administrativas tendientes a la concreción de la misión, objetivos, principios y proyectos o actividades propuestas.
 
+- **ARTÍCULO 6°**: TESORO, constituido por distintos Stake Pools (SP), y por otras actividades tales como el marketplace de NFTs de ALDEA o donaciones. Será totalmente transparente y monitoreable por todo aquel que lo requiera, mediante los mecanismos que establezca la UGT.
+
+
 
 # CAPÍTULO II: COMUNIDAD
 
-- **ARTÍCULO 6°**: TOKEN, con su posesión se es miembro de la comunidad de ALDEA.
+- **ARTÍCULO 6°**: TOKEN, con su posesión se es miembro de la comunidad de ALDEA. La adquisición podrá realizarse mediante el intercambio, obsequio, o recompensas o cualquier otro modo lícito.
 
 - **ARTÍCULO 7°**: POSTULACIÓN DE PROYECTOS, por parte de cualquier miembro de la comunidad mediante los canales dispuestos por la UGT.
 
